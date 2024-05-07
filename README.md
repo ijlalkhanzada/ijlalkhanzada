@@ -58,7 +58,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ijlal-khanzada-5a810b65/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ijlalkhanzada@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hammad2980/"><img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png"/></a>
  </p>
  
 <br>
