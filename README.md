@@ -7,10 +7,10 @@
 	
 <p align="center">📓 I’m currently learning LLM's and Genrative AI... 😭</p>
 
-<p>📧 ijlalkhanzada@gmial.com</p>
+<p align="center">📧 ijlalkhanzada@gmial.com</p>
 
 
-<p>💼 LinkedIn: https://www.linkedin.com/in/ijlal-khanzada-5a810b65/</p>
+<p align="center">💼 LinkedIn: https://www.linkedin.com/in/ijlal-khanzada-5a810b65/</p>
 
  
 <h2>Tech Stack</h2>
