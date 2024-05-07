@@ -15,7 +15,7 @@
  
 <h2>Tech Stack</h2>
 
-<table width="100">
+<table align='center' width="100">
 <tr>
     <td align='center' width="200">
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
