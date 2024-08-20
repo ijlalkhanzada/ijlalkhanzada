@@ -32,6 +32,9 @@
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td
+	     <td align='center' width="200">
+        <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
     </td>
  
 </tr>
